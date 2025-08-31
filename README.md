@@ -1,0 +1,1 @@
+# Delete_object_python
